@@ -1,4 +1,5 @@
-# used-market-server 
+# used-market-server
+중고거래 프로젝트
 목적
 ---
 - 중고 상품 거래 서비스 기능들을 직접 구현함으로써 Backend System 의 도메인을 이해하자
